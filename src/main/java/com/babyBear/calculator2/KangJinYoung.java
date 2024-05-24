@@ -1,4 +1,4 @@
-package com.babyBear.calculator;
+package com.babyBear.calculator2;
 
 import java.util.Scanner;
 
